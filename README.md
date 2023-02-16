@@ -2,9 +2,9 @@
 <h3 align="center">A Data Engineer and hobbyist Game Dev from Brazil.</h3>
 
 
-- 🔭 Currently working on **finishing a Game Design Course.**
+- 🔭 Currently working on **finishing a Game Design Course** and studying for the **AWS - Data Analytics Specialty exam.** 
 
-- 🌱 Currently learning **Unity Game Design**
+- 🌱 Currently learning **Unity Game Design** and **Data Analytics on AWS**
 
 - 💬 Ask me about **AWS, Data Engineering and Game Design**
 
