@@ -1,6 +1,9 @@
 <h1 align="center">I'm Lucas Leonel Siqueira 👋</h1>
 <h3 align="center">A Data Engineer and hobbyist Game Dev from Brazil.</h3>
 
+![Screenshot 2023-02-26 at 22-00-01 Adobe Express](https://user-images.githubusercontent.com/68828872/221449277-4b57c469-d1fc-4376-9a8d-5410ae14bcd4.png)
+
+<h3 align="left">About me:</h3>
 
 - 🔭 Currently working on **finishing a Game Design Course** and studying for the **AWS - Data Analytics Specialty exam.** 
 
