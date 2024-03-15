@@ -5,9 +5,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 Currently working on **finishing a Game Design Course** and studying for the **AWS - Data Analytics Specialty exam.** 
+- 🔭 Currently working on **developing a small game project** and studying for the **AWS - Associate Data Engineer certification.** 
 
-- 🌱 Currently learning **Unity Game Design** and **Data Analytics on AWS**
+- 🌱 Currently learning and **Data Engineering on AWS**
 
 - 💬 Ask me about **AWS, Data Engineering and Game Design**
 
