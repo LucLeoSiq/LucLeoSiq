@@ -1,5 +1,7 @@
-<h1 align="center">I'm Lucas Leonel Siqueira 👋</h1>
-<h3 align="center">A Data Engineer and Game Dev from Brazil.</h3>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FE9900&width=500&height=45&lines=Data+Engineer+and+Game+Dev+from+Brazil" alt="Typing SVG" /></a>
+</p>
 
 ![Screenshot 2023-02-26 at 22-00-01 Adobe Express](https://user-images.githubusercontent.com/68828872/221449277-4b57c469-d1fc-4376-9a8d-5410ae14bcd4.png)
 
