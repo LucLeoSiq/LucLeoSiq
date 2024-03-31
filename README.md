@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FE9900&width=500&height=45&lines=Data+Engineer+and+Game+Dev+from+Brazil" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=658D6D&width=500&height=45&lines=Data+Engineer+and+Game+Dev+from+Brazil" alt="Typing SVG" /></a>
 </p>
 
 ![Screenshot 2023-02-26 at 22-00-01 Adobe Express](https://user-images.githubusercontent.com/68828872/221449277-4b57c469-d1fc-4376-9a8d-5410ae14bcd4.png)
@@ -12,14 +12,32 @@
 - 🌱 Currently learning and **Data Engineering on AWS**
 
 - 💬 Ask me about **AWS, Data Engineering and Game Design**
+  <br>
+  
+#
 
-- 📫 How to reach me **luleosiq@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-leonel-siqueira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-leonel-siqueira/" height="30" width="40" /></a>
-</p>
+### ⌨️ Programming Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/></a>
+<a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a>
+<a href="https://www.terraform.io/"><img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"/></a>
+<a href="https://github.com/"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/></a>
+<a href="https://jupyter.org/"><img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"/></a>
+<a href="https://www.linux.org/"><img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></a>
+<a href="https://ubuntu.com/"><img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/ubuntu/ubuntu-original.svg"/></a>
+<a href="https://postman.com/"><img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/LucLeoSiq/LucLeoSiq/assets/68828872/a97a6f31-9fff-495d-a476-531c6af1b94c"/></a>
 
+  <br>
+
+#
+
+### 📜 Certifications
+
+<a href="https://www.credly.com/earner/earned/badge/50509b4c-fb3a-497d-bec3-ade60b4d3c71"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" align="left" width="100px">
+
+<a href="https://www.credly.com/earner/earned/badge/ffda0b1d-a273-47a1-985b-3ebede89995e"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate
+" align="left" width="100px">
+
+<a href="https://www.credly.com/earner/earned/badge/996f3620-72fa-40fd-a147-e481f1314da3"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" align="left" width="100px">
